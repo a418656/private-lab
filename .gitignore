@@ -1,0 +1,22 @@
+# 個人資料不進倉庫（照片、影片、行車紀錄器、相機原始檔）
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.ts
+*.TS
+*.insv
+*.insp
+*.heic
+*.HEIC
+*.dng
+*.DNG
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+
+# 系統殘留
+Thumbs.db
+.DS_Store
+~$*
